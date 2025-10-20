@@ -20,7 +20,7 @@ I don't like that. I abhor the hierarchy and unwanted distance between people it
 
 When people describe me in a specific role, I know that it does not determine how I act or who I am. A dictionary records language: it does not define it. It tells me what they think their relationship is to me.
 
-I started teaching relatively soon in dancing: about three years into exploring Lindy Hop. There is no "correct" time to start. I already had previous experience teaching other disciplines, so it the determining factor was my skill at dancing, not whether or not I had the experience and skills involved in teaching.
+I started teaching relatively soon in dancing: about three years into exploring Lindy Hop. There is no "correct" time to start. I already had previous experience teaching other disciplines, so the determining factor was my skill at dancing, not whether or not I had the experience and skills involved in teaching.
 
 I still hesitated to teach for some time. I wanted to be honest about who I was. When I was involved with circus, I performed and taught occasionally. When presenting to a group, you need to be big - and if you're performing as a character, you need to be even bigger.
 

@@ -13,7 +13,7 @@
     </head>
     <body>
       <p>
-        This is the RSS feed for <a href="https://www.adubhlaoich.ie/">adubhlaoich.ie</a>.
+        This is the RSS feed for <a href="https://www.adubhlaoi.ch/">adubhlao.ch</a>.
       </p>
       <h2>Recent website entries</h2>
       <xsl:for-each select="/atom:feed/atom:entry">
